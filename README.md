@@ -1,2 +1,2 @@
 # CEmbStandards
-C Embedded Standards files
+C Embedded Standards
